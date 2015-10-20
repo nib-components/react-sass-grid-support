@@ -1,6 +1,6 @@
 # @nib-components/react-sass-grid-support
 
-Make [React](https://facebook.github.io/react/) support the attributes (`g-xs`, `g-sm`, `g-md`, `g-lg`, `g-xl`) for our pre-compiled [sass-grid](https://github.com/nib-styles/sass-grid).
+Make [React](https://facebook.github.io/react/) support the custom attributes (`g-xs`, `g-sm`, `g-md`, `g-lg`, `g-xl`) used by our pre-compiled [sass-grid](https://github.com/nib-styles/sass-grid).
 
 ---
 
