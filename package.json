@@ -1,8 +1,8 @@
 {
   "name": "@nib-components/react-sass-grid-support",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Make React support the custom attributes used by our pre-compiled sass-grid.",
   "peerDependencies": {
-    "react": "0.x"
+    "react": "^0.14.0 || ^15.0.0"
   }
 }
