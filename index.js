@@ -1,4 +1,4 @@
-var DOMProperty = require('react/lib/DOMProperty.js');
+var DOMProperty = require('react-dom/lib/DOMProperty.js');
 
 DOMProperty.injection.injectDOMPropertyConfig({
   Properties: {
